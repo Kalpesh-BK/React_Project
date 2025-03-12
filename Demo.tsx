@@ -1,5 +1,65 @@
 "use client";
+If you want to use value.replace() to restrict input to 2 decimal places, you can do it inside onChange.
 
+
+---
+
+🔧 Fixed Code (Using replace() for Decimal Places)
+
+import { useState } from "react";
+
+export default function NumberInput() {
+  const [value, setValue] = useState("");
+
+  return (
+    <div>
+      <label>Enter a number (max 100, up to 2 decimals):</label>
+      <input
+        type="text"
+        value={value}
+        onChange={(e) => {
+          let inputValue = e.target.value;
+
+          // Remove unwanted characters (allow numbers, single dot, and up to 2 decimals)
+          inputValue = inputValue
+            .replace(/[^0-9.]/g, "") // Remove non-numeric characters except "."
+            .replace(/^(\d*\.?\d{0,2}).*$/, "$1"); // Limit to 2 decimal places
+
+          let numValue = parseFloat(inputValue);
+
+          // Ensure value does not exceed 100
+          if (!isNaN(numValue) && numValue > 100) {
+            inputValue = "100";
+          }
+
+          setValue(inputValue);
+        }}
+        placeholder="0.00"
+      />
+    </div>
+  );
+}
+
+
+---
+
+🚀 How This Works
+
+✅ .replace(/[^0-9.]/g, "") → Removes everything except numbers and .
+✅ .replace(/^(\d*\.?\d{0,2}).*$/, "$1") → Limits to 2 decimal places
+✅ Instantly resets values over 100
+✅ Prevents multiple dots (99..5 ❌, 99.99 ✅)
+
+
+---
+
+Example Scenarios
+
+Now, it automatically corrects the input as the user types. 🚀
+
+Would you like any further improvements?
+
+  
 import { useForm, useFormContext, FormProvider } from "@nsk/form";
 import { useEffect } from "react";
 
