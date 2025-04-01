@@ -1,3 +1,11 @@
+
+
+global.fetch = jest.fn(() =>
+  Promise.resolve({
+    json: () => Promise.resolve({ ip: "192.168.1.1" }),
+  })
+);
+
 "use client";
 If you want to use value.replace() to restrict input to 2 decimal places, you can do it inside onChange.
 
