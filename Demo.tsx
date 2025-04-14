@@ -1,3 +1,45 @@
+import { useEffect, useState } from 'react';
+import { fetchFinpro } from '@/lib/fetchfinpro';
+
+// 👇 Retry wrapper around fetchFinpro
+async function fetchWithRetry(retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const data = await fetchFinpro();
+      if (data) return data;
+    } catch (err) {
+      if (i === retries - 1) throw err;
+    }
+    await new Promise(r => setTimeout(r, 1000)); // wait before retry
+  }
+}
+
+export default function BusinessConcept() {
+  const [data, setData] = useState(null);
+  const [errorModal, setErrorModal] = useState(false);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetchWithRetry()
+      .then(res => {
+        setData(res);
+      })
+      .catch(() => {
+        setErrorModal(true);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) return <div>Loading...</div>;
+  if (errorModal) return <div>Error loading data. Please try again.</div>;
+
+  return <div>{JSON.stringify(data)}</div>;
+}
+
+
+
 
 
 global.fetch = jest.fn(() =>
