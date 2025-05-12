@@ -1,3 +1,117 @@
+Here are some casual yet engaging questions you can ask as the anchor during a "Know Your Leader" event:
+
+Casual & Fun Questions:
+
+1. What's the first thing you do when you reach the office?
+
+
+2. If not in this profession, what do you think you'd be doing?
+
+
+3. What's your favorite way to unwind after a long day?
+
+
+4. Can you share a fun fact about yourself that most of us don't know?
+
+
+5. Tea or coffee – what's your go-to?
+
+
+6. Who has inspired you the most in your career journey?
+
+
+7. Any guilty pleasure you enjoy but don't often admit?
+
+
+8. What’s one hobby or interest outside work that keeps you going?
+
+
+9. If you could switch roles with someone in the company for a day, who would it be and why?
+
+
+10. What's one thing you wish you knew earlier in your career?
+
+
+
+Would you like a few ice-breaker or rapid-fire style questions too?
+
+Sure! Here are more casual and light-hearted questions you can use as an anchor for your "Know Your Leader" event:
+
+Personal & Fun:
+
+1. What’s your favorite childhood memory?
+
+
+2. If you had a superpower, what would it be?
+
+
+3. What song always gets you in a good mood?
+
+
+4. What’s one thing on your bucket list?
+
+
+5. Are you a morning person or a night owl?
+
+
+6. Describe your job using a movie title.
+
+
+7. What's your comfort food?
+
+
+8. What's the most adventurous thing you've ever done?
+
+
+9. What nickname did your friends give you growing up?
+
+
+10. If your life were a book, what would the title be?
+
+
+
+Work-Related but Fun:
+
+11. What's your go-to productivity hack?
+
+
+12. What’s the weirdest or funniest thing that ever happened in a meeting?
+
+
+13. How do you handle Monday blues?
+
+
+14. What's your most memorable team moment?
+
+
+15. What’s one leadership lesson you learned the hard way?
+
+
+
+Quick Rapid-Fire Style:
+
+16. Mountains or beaches?
+
+
+17. Books or movies?
+
+
+18. Early bird or night owl?
+
+
+19. Text or call?
+
+
+20. Work from home or work from office?
+
+
+
+Would you like me to group these into sections or provide an opening/closing line for the session as well?
+
+
+
+
+
 import { useEffect, useState } from 'react';
 import { fetchFinpro } from '@/lib/fetchfinpro';
 
