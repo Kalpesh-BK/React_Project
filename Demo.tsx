@@ -1,3 +1,368 @@
+You got it, Kalpesh! Here's a comprehensive list of 20+ questions per segment for your "Coffee & Tea with K&T" event — fully ready for you and Tejal to pick from, mix, or rotate across sessions.
+
+
+---
+
+☕ Segment 1: Introduction & Icebreakers
+
+Goal: Warm up the guests and make them comfortable
+
+1. What’s your name and what team are you from?
+
+
+2. What's one word your teammates would use for you?
+
+
+3. If your mood today was a weather type, what would it be?
+
+
+4. Tea or Coffee — and how many cups a day?
+
+
+5. Share one fun fact that’s not on your resume.
+
+
+6. What’s your go-to work snack?
+
+
+7. What’s the weirdest task you’ve done at work?
+
+
+8. Describe your role using 3 emojis.
+
+
+9. If your work style was a song, what would it be?
+
+
+10. What’s your comfort show or movie after a tough day?
+
+
+11. What’s your dream desk setup?
+
+
+12. If you had a superpower at work, what would it be?
+
+
+13. Describe your team using a movie title.
+
+
+14. One thing your team doesn’t know about you (yet).
+
+
+15. Early bird or night owl?
+
+
+16. What's your sign-off line in Teams or Slack?
+
+
+17. What's your Monday mantra?
+
+
+18. Share your work-from-home uniform.
+
+
+19. First app you open in the morning?
+
+
+20. If your job had a mascot, what would it be?
+
+
+
+
+---
+
+🧑‍💻 Segment 2: Know Your Guest (Semi-Formal)
+
+Goal: Understand their professional journey in a fun tone
+
+1. What’s your current role at [Company]?
+
+
+2. How long have you been part of this team?
+
+
+3. What drew you to this field or industry?
+
+
+4. Can you describe a day in your work life?
+
+
+5. What’s one project you're proud of?
+
+
+6. Who’s your biggest inspiration at work?
+
+
+7. What’s something you’ve learned recently on the job?
+
+
+8. If you could shadow someone for a day, who would it be?
+
+
+9. What’s one tool or trick that helps you stay productive?
+
+
+10. What's a professional skill you’re currently working on?
+
+
+11. What do you love most about your job?
+
+
+12. How do you unwind after a long day of work?
+
+
+13. What motivates you on slow days?
+
+
+14. What’s your biggest achievement so far?
+
+
+15. If your job were a sport, what would it be?
+
+
+16. What advice would you give a fresher joining your team?
+
+
+17. What’s your proudest team moment?
+
+
+18. What’s your go-to method for solving tricky problems?
+
+
+19. If your job title was renamed creatively, what would it be?
+
+
+20. What’s one work goal you’ve set for this year?
+
+
+
+
+---
+
+⚡ Segment 3: Rapid Fire / This or That
+
+Goal: Quick reactions, fun responses
+
+1. Tea or Coffee?
+
+
+2. Work from Home or Office?
+
+
+3. Video on or Video off in meetings?
+
+
+4. Slack or Email?
+
+
+5. Text or Call?
+
+
+6. Sweet or Spicy snacks?
+
+
+7. Casual Friday or Theme Dress Day?
+
+
+8. Excel or Notion?
+
+
+9. Early morning meetings or late wrap-ups?
+
+
+10. Whiteboard or Sticky Notes?
+
+
+11. Books or Podcasts?
+
+
+12. Deadline sprint or Slow and steady?
+
+
+13. Solo work or Team collab?
+
+
+14. Noise-canceling headphones or Office buzz?
+
+
+15. 10-minute break or power nap?
+
+
+16. Cake or Samosa in office parties?
+
+
+17. Keyboard warrior or Meeting speaker?
+
+
+18. One app you can’t work without?
+
+
+19. Best time to work – morning or night?
+
+
+20. Lunch buddy or Solo eater?
+
+
+
+
+---
+
+🤝 Segment 4: Who’s More Likely (Between Guests)
+
+Goal: Friendly comparison, duo interaction
+
+1. Who’s more likely to forget a meeting?
+
+
+2. Who joins meetings last minute?
+
+
+3. Who is the silent worker?
+
+
+4. Who cracks more jokes in chats?
+
+
+5. Who would host a great office party?
+
+
+6. Who replies faster on messages?
+
+
+7. Who multitasks the most?
+
+
+8. Who’s the coffee addict?
+
+
+9. Who takes the longest lunch breaks?
+
+
+10. Who’s always calm under pressure?
+
+
+11. Who’s more competitive?
+
+
+12. Who’s more organized?
+
+
+13. Who’s more dramatic when deadlines arrive?
+
+
+14. Who brings the best snacks?
+
+
+15. Who asks more questions in meetings?
+
+
+16. Who’s more likely to win an award?
+
+
+17. Who’s the “go-to” for work help?
+
+
+18. Who’s more likely to forget their password?
+
+
+19. Who would survive a no-Wi-Fi day?
+
+
+20. Who would win in an office quiz?
+
+
+
+
+---
+
+✨ Segment 5: Office Oscars / Fun Awards
+
+Goal: Lighthearted, made-up awards
+
+1. “The Chai Pe Charcha Award” – for best tea-time convos
+
+
+2. “Spreadsheet Sorcerer” – for Excel brilliance
+
+
+3. “The Calm in the Storm” – cool under pressure
+
+
+4. “Most Likely to Say ‘Can You See My Screen?’”
+
+
+5. “Silent Assassin” – works quietly but powerfully
+
+
+6. “The Quick-Reply King/Queen”
+
+
+7. “Emoji Master” – best at using emojis
+
+
+8. “Meeting MVP” – never misses a sync
+
+
+9. “Desk Décor Star” – best workstation vibes
+
+
+10. “Snack Commander” – always munching something
+
+
+11. “The Distraction Dodger” – ultra-focused
+
+
+12. “Quote Machine” – always has a quote or saying
+
+
+13. “Pun Champion” – for clever wordplay
+
+
+14. “The Icebreaker” – starts all conversations
+
+
+15. “Idea Machine” – always sharing new suggestions
+
+
+16. “Camera-Ready Always” – best dressed on calls
+
+
+17. “The Stealth Responder” – seen at work, never in chats
+
+
+18. “Playlist Curator” – music recommendations master
+
+
+19. “The Cheerleader” – always supporting others
+
+
+20. “Team Spirit Award” – for pure positive vibes
+
+
+
+
+---
+
+Would you like this in a Google Doc or Excel sheet for easy sharing or printing before the event?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here are some casual yet engaging questions you can ask as the anchor during a "Know Your Leader" event:
 
 Casual & Fun Questions:
