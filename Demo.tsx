@@ -1,3 +1,354 @@
+
+
+Awesome, Kalpesh! Involving the audience with color flags adds energy and fun — perfect for engagement.
+
+Segment: Audience Pick (Flag Voting Round)
+
+Setup:
+
+The audience gets two colored flags:
+
+Red = Guest 1
+
+Blue = Guest 2
+
+
+You (Kalpesh) and Tejal ask a question to both guests.
+
+Guests answer one by one, then audience raises the flag for the answer they think was better, funnier, or more accurate.
+
+
+
+---
+
+Voting Questions (20+ for Audience Round)
+
+1. What’s the best way to impress your manager without saying it directly?
+
+
+2. Describe a Monday in one sentence — go!
+
+
+3. What's one office hack everyone should know?
+
+
+4. What's your secret to surviving back-to-back meetings?
+
+
+5. What’s a creative excuse to skip a boring meeting?
+
+
+6. What’s the weirdest thing you’ve ever Googled during work?
+
+
+7. Sell your job in a dramatic Bollywood-style pitch.
+
+
+8. How do you handle a teammate who's always late?
+
+
+9. What’s the best way to enjoy a chai break with your team?
+
+
+10. What's one thing you'd change about office culture?
+
+
+11. Describe your work style using a food item.
+
+
+12. How do you bounce back after messing up a task?
+
+
+13. How do you sneak a break during a long call?
+
+
+14. Give a fake but believable reason to leave early.
+
+
+15. Explain “work-life balance” in your own meme-style logic.
+
+
+16. What would be your TED Talk topic at work?
+
+
+17. What do you say when your screen is frozen, but you’re just multitasking?
+
+
+18. Your boss messages “Can we talk?” — what’s your internal reaction?
+
+
+19. What’s the most “non-urgent” urgent email you’ve ever received?
+
+
+20. Give your version of “How to look busy without doing anything.”
+
+
+21. What’s your version of a 5-minute break (that becomes 30)?
+
+
+22. Give your best imitation of a colleague’s catchphrase.
+
+
+23. What is the ultimate work-from-home survival tip?
+
+
+
+
+---
+
+Host Tip:
+After the audience votes with flags, you and Tejal can call out:
+
+“Looks like **Guest 2’s answer had the crowd cheering blue today!”
+
+Keep a mini scoreboard or declare fun titles like “Audience Favorite Answer.”
+
+
+Want a scoreboard sheet or slide template too?
+
+
+
+
+
+
+
+Perfect, Kalpesh! Here's a detailed breakdown of questions for your updated segments in "Coffee & Tea with K&T" — keeping it fun, light, and engaging.
+
+
+---
+
+☕ Segment 1: Light-Hearted Questions (20 Questions)
+
+Goal: Warm, personal, fun, and team-friendly
+
+1. What’s the funniest thing that happened to you at work?
+
+
+2. If your job had a theme song, what would it be?
+
+
+3. What’s your most-used emoji at work?
+
+
+4. If you had a work nickname, what would it be?
+
+
+5. What was your first job ever?
+
+
+6. What’s your secret talent no one at work knows?
+
+
+7. If you could swap roles with anyone in the company, who would it be?
+
+
+8. What’s your favorite office snack or food?
+
+
+9. Tea break or coffee catch-up — what’s your ritual?
+
+
+10. If your life at work was a meme, what meme would it be?
+
+
+11. What’s your funniest meeting moment?
+
+
+12. Who’s your go-to person in the office and why?
+
+
+13. What’s one thing you always forget to do at work?
+
+
+14. Which fictional character describes your work style?
+
+
+15. What’s your dream company perk?
+
+
+16. What's your ultimate "Friday feeling" song?
+
+
+17. If your computer had a voice, what would it say to you daily?
+
+
+18. What’s a guilty pleasure during work hours (music, food, scrolling)?
+
+
+19. Who would play you in a movie about your office life?
+
+
+20. If you could ban one buzzword from office lingo, what would it be?
+
+
+
+
+---
+
+⚡ Segment 2: Rapid Fire (30 Questions)
+
+Goal: Fun, quick, instinctive choices
+
+1. Tea or Coffee?
+
+
+2. Office or WFH?
+
+
+3. Morning person or Night owl?
+
+
+4. Slack or Email?
+
+
+5. Laptop or Notepad?
+
+
+6. Formal or Casual dress code?
+
+
+7. Early login or Late logout?
+
+
+8. Samosa or Sandwich?
+
+
+9. PowerPoint or Whiteboard?
+
+
+10. Deadlines or Checklists?
+
+
+11. Meetings or Emails?
+
+
+12. Google Docs or Excel Sheets?
+
+
+13. Fun Friday or Silent Saturday?
+
+
+14. Sit by window or AC?
+
+
+15. Birthday cakes or Team lunches?
+
+
+16. Group work or Solo focus?
+
+
+17. Work calls or Voice notes?
+
+
+18. AirPods or Headphones?
+
+
+19. Snack breaks or Walk breaks?
+
+
+20. Text message or Call?
+
+
+21. Pizza party or Ice cream day?
+
+
+22. Save the day or Avoid the chaos?
+
+
+23. Music while working or Silence?
+
+
+24. Keyboard shortcuts or Mouse clicks?
+
+
+25. Office gossip or Office news?
+
+
+26. Morning meetings or Post-lunch meetings?
+
+
+27. Chill boss or Strict boss?
+
+
+28. Respond now or Snooze later?
+
+
+29. Color-coded notes or Sticky notes?
+
+
+30. Would you rather have no meetings for a week OR no emails for a day?
+
+
+
+
+---
+
+❓ Segment 3: Myth Busters (15 Questions)
+
+Goal: Break common assumptions or laugh at stereotypes
+
+> Format: “True or Myth?” / “Is it really like this?”
+
+
+
+1. People in [your team] only attend meetings and drink coffee — true or myth?
+
+
+2. Coding/Operations/HR is boring — true or myth?
+
+
+3. Everyone multitasks in every meeting — true or myth?
+
+
+4. Introverts don’t enjoy team outings — what’s your take?
+
+
+5. Work from home means working in pajamas — guilty or not?
+
+
+6. Teams are always serious and focused — really?
+
+
+7. People with headphones are always working — myth?
+
+
+8. Only managers get the best chai breaks — true or not?
+
+
+9. The person who speaks most in meetings does the most work — agree?
+
+
+10. Remote employees have it easy — true or false?
+
+
+11. Developers hate documentation — true?
+
+
+12. HRs are always happy — myth or reality?
+
+
+13. You need to speak a lot to be a leader — true or myth?
+
+
+14. Office snacks disappear faster than emails — confirm?
+
+
+15. People only speak up in retros — yes or myth?
+
+
+
+
+---
+
+Would you like a formatted host script template for each segment too?
+
+
+
+
+
+
+
+
 You got it, Kalpesh! Here's a comprehensive list of 20+ questions per segment for your "Coffee & Tea with K&T" event — fully ready for you and Tejal to pick from, mix, or rotate across sessions.
 
 
