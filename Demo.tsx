@@ -1,4 +1,22 @@
+If your alarm clock had a voice, what insult would it throw at you every morning?
 
+What weird food combo do you swear by that would get you kicked out of a cooking show?
+
+If your boss gave you a surprise holiday tomorrow, how fast would you disappear and where to?
+
+If you suddenly got 1 crore rupees, what’s the first completely useless thing you'd buy?
+
+
+Myth: “I’ll start eating healthy from Monday.”
+
+Myth: “Joining early means leaving early.”
+
+Myth: “I’m just taking a 5-minute break.”
+
+
+5. Myth: “This Excel sheet will only take 10 minutes.”
+
+Myth: “Turning off the camera means I’m listening better.”
 
 Awesome, Kalpesh! Involving the audience with color flags adds energy and fun — perfect for engagement.
 
