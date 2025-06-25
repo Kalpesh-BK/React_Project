@@ -1,3 +1,38 @@
+
+Let me walk you through the Attachment Page we've developed, which is a key part of the user experience.
+
+This page is designed to behave slightly differently based on whether it’s a single-life or multi-life case — so the user always sees the most relevant and streamlined layout for their scenario.
+
+For single life, the layout is clean and focused, since there's only one individual involved.
+
+For multi-life, we’ve included separate sections or a structured layout to handle documents for multiple individuals — this helps avoid confusion and keeps the flow organized.
+
+
+We’ve also implemented a file upload feature where the user can easily drag and drop or browse to upload documents.
+
+There are a few important things to note here:
+
+We’ve enforced a 1 MB size limit on uploads to ensure fast performance and avoid any unnecessary delays.
+
+The system accepts a wide range of file types — not just PDFs, but also common formats like images, Word documents, and others, giving flexibility to the user.
+
+There’s also a delete option — so if someone accidentally uploads the wrong file, they can quickly remove it before submitting.
+
+
+Overall, this page is built to be user-friendly, responsive, and practical for real-world use cases. It ensures compliance with constraints, but without compromising on usability. The design is clean and efficient, and we’ve tested it across different user types to make sure the experience remains consistent and intuitive.
+
+We’d be happy to take feedback and improve it further, but the current version is ready for demo or deployment."
+
+
+
+
+
+
+
+
+
+
+
 If your alarm clock had a voice, what insult would it throw at you every morning?
 
 What weird food combo do you swear by that would get you kicked out of a cooking show?
