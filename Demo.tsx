@@ -1,4 +1,42 @@
 
+
+Yearly Contribution Summary (July 2024 – July 2025)
+
+1. Technical Contributions
+
+Tech Stack: Worked across Java, Next.js, and TypeScript in multiple instances.
+Automation Initiative: Successfully implemented a ServiceNow automation utility end to end that automatically creates tickets for Java Services.
+Collaborated with Team 5 and Team 6 to drive adoption and integration of the utility across teams.
+Cypress Framework Implementation:
+Self-learned Cypress and implemented end-to-end UI automation flows for the Drop Ticket feature.
+Received positive feedback in retrospectives for Cypress flow design and execution.
+UI Development:
+Contributed to UI development for Multi Life Drop Ticket workflows and Attachment UI Page enhancements.
+Delivered demo for UI attachment page to the Home Office Team and Stakeholders.
+2. Learning & Development
+
+Consistently completed HCM Learnings within the timeline.
+Invested time in LinkedIn Learning for self-upskilling, focusing on frontend and automation best practices.
+Currently preparing for AWS Cloud Practitioner certification; expected completion within the next two weeks.
+3. Collaboration & Engagement
+
+Actively engaged in cross-team collaboration and internal engagement groups.
+Took the lead as an event anchor, driving better interaction within the team.
+Open to more business context involvement to bridge gaps between technology and domain.
+4. Recognitions
+
+Received team-level appreciation in retrospectives for:
+Cypress test flow implementations.
+Custom code for SSN masking.
+End-to-end automation utility implementation for ServiceNow.
+
+
+
+
+
+
+
+
 Let me walk you through the Attachment Page we've developed, which is a key part of the user experience.
 
 This page is designed to behave slightly differently based on whether it’s a single-life or multi-life case — so the user always sees the most relevant and streamlined layout for their scenario.
