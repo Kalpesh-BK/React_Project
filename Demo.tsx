@@ -1,3 +1,38 @@
+
+Here’s a polished and concise version of your update that keeps your meaning but makes it clearer and easier to follow in a meeting setting:
+
+
+---
+
+Hi, good afternoon everyone.
+
+I’ll be sharing updates from my team.
+
+1. Attachment Upload Feature
+Last month, our team worked on an attachment upload feature. Previously, some forms in the app packet were not available to case coordinators, which increased turnaround time. To improve case management efficiency, we implemented functionality allowing advisors to upload attachments directly. This feature goes live today.
+
+2. Electronic Disclosure for S, CA, and MA
+Earlier, electronic disclosures were generated only for full applications. As per compliance requirements, we have now extended this to include full apps, Part A, and Part B submissions—for both initial and second submissions. These forms will be stored in the contract folder of Content Navigator after matching.
+
+3. Continuous Improvements
+For any team looking to implement similar upload functionality, you can reuse this pattern to quickly set up your own feature.
+
+That’s the update from the submission side. If you have any questions, please feel free to ask.
+
+
+---
+
+If you want, I can also prepare a crisper version that’s even shorter for quick status calls. Would you like me to do that?
+
+
+
+
+
+
+
+
+
+
 /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}-[a-zA-Z0-9]+\.[a-zA-Z0-9]{1,10}$/i
 
 Yearly Contribution Summary (July 2024 – July 2025)
